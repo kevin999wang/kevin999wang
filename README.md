@@ -1,6 +1,6 @@
 ### Hi there I'm kw9w---[kevin999wang][website]👋
 
-![C++](https://img.shields.io/badge/-C++-%23e9d54c?logo=c++&logoColor=white&style=flat-square) 
+![C++](https://img.shields.io/badge/-C++-%23e9d54c?logo=C++&logoColor=white&style=flat-square) 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 
 ## I'm a college student now 👀
