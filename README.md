@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 
 ---
-![kevin999wang's GitHub stats](https://github-readme-stats-kevin999wang.vercel.app/api?username=kevin999wang&show_icons=true)
+![kevin999wang's GitHub stats](https://github-readme-stats-kevin999wang.vercel.app/api?username=kevin999wang&show_icons=true&count_private=true)
