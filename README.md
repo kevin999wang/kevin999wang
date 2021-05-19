@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like to watch tv series and films.
 
 
-![kevin999wang's GitHub stats](https://github-readme-stats-kevin999wang.vercel.app/api?username=kevin999wang&show_icons=true&count_private=true)
+![kevin999wang's GitHub stats](https://github-readme-stats-kevin999wang.vercel.app/api?username=kevin999wang&show_icons=true&count_private=true&&bg_color=30,e96443,904e95)
 
 
 [website]:https://g.kw9w2u.tk/
