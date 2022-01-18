@@ -1,7 +1,8 @@
 ### Hi there I'm kw9w---[kevin999wang][website]👋
 
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)
+![Swift](https://img.shields.io/badge/-Swift-black?logo=Swift&style=social)
 
 ## I'm a college student now 👀
 
