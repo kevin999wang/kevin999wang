@@ -7,7 +7,7 @@
 ## I'm a college student now 👀
 
 - 🔭 I’m currently studying at Nanjing University, China.
-- 🌱 I’m currently learning evrything.
+- 🌱 I’m currently learning everything.
 - ⚡ Fun fact: I like to watch tv series and films.
 
 
